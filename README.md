@@ -34,7 +34,7 @@ The outputs are:
 
 Schematic for reference:
 
-<img src="sch.bmp" width="600" />
+<img src="sch.bmp" />
 
 Greetings from Spain
 
