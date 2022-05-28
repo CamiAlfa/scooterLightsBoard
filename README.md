@@ -1,10 +1,14 @@
 # scooterLightsBoard
 Add lights to the scooter
 
+Board files designed using kicad 6.
+
 The board uses the internal 12 volts to enable a relay.
 That relay enables the stepdown and the front light.
 The stepdown is a 4,5-60V LM2596HV. It must be regulated to 12v (or whatever voltage needed) before instalation to avoid damage.
-<img src="stepdown.bmp" width="600" />
+
+
+<img src="stepdown.bmp" width="300" />
 The frontlight needs a separate switch to activate it independently.
 
 The inputs of the board are:
@@ -28,6 +32,9 @@ The outputs are:
   1. Tail light+ (12v)
   2. Tail light-
 
+Schematic for reference:
+
+<img src="sch.bmp" width="600" />
 
 Greetings from Spain
 
